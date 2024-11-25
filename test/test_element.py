@@ -1,4 +1,3 @@
-import re
 from playwright.sync_api import Page, expect  # type: ignore
 from pages.main_page import MainPage
 
